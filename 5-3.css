@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.link {
+    display: flex;
+
+    padding: 22px 208px;
+
+    align-items: center;
+    gap: 10px;
+
+}
+
+
+.vector {
+    width: 40px;
+    height: 44px;
+    text-align: center;
+    gap: 8px;
+
+}
+
+.Branding {
+    color: #000;
+    font-weight: 900;
+    line-height: 24px;
+    width: 96px;
+    height: 24px;
+    display: flex;
+    gap: 8px;
+
+}
+
+.Products {
+    color: #535862;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    gap: 8px;
+}
+
+.chevrom {
+    width: 20px;
+    height: 20px;
+    gap: 8px;
+
+}
+
+.Services {
+    color: #535862;
+
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.Pricing {
+    color: #535862;
+
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.Resources {
+    color: #535862;
+
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    gap: 10px;
+}
+
+.div {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.About {
+    color: #535862;
+
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.Log {
+    border-radius: 8px;
+    display: flex;
+    padding: 10px 14px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Sign {
+    border-radius: 8px;
+    display: flex;
+    padding: 10px 14px;
+    justify-content: center;
+    align-items: center;
+    background: #7F56D9;
+}
+
+.divori {
+    display: flex;
+    width: 1024px;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.dot {
+    width: 8px;
+    height: 8px;
+
+}
+
+.feature {
+    color: #414651;
+
+    text-align: center;
+
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.test {
+    display: flex;
+    justify-content: center;
+}
+
+.test1 {
+    display: flex;
+    justify-content: center;
+    max-width: 1024px;
+    width: 100%;
+}
+.testori{
+    display: flex;
+    align-items: center;
+}
